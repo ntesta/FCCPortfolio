@@ -1,0 +1,103 @@
+#twitterIcon{
+  color:rgb(0, 172, 237);
+}
+
+#githubIcon{
+  color:rgb(102, 43, 129);
+}
+
+#linkedinIcon{
+  color:rgb(0, 127, 178);
+}
+
+#facebookIcon{
+  color:rgb(59, 89, 163);
+}
+
+.nav-pills {
+  font-size:1.7em;
+  background-color:black;
+  margin-bottom:10%;
+  position:fixed;
+  z-index:500;
+  width:100%;
+}
+
+body{
+  background-color:white;
+  font-family:Lobster;
+  color:#1D4267;
+}
+
+h1{
+  padding:0;
+  margin-top:0px;
+  font-size:5.0em;
+}
+
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:#337ab7;
+  font-size:1.7em;
+  
+}
+
+.pageOne{
+  background:url("http://www.ntesta.com/images/codingbackground2.jpg");
+  background-size:cover;
+  padding-top:10%;
+ 
+}
+
+.pageTwo{
+  background-color:#F5F5F5;
+  background-size:cover;
+  height:600px;
+  padding-top:5%;
+  padding-left:5%;
+}
+
+.pageThree{
+  background-color:#E5E5E5;
+  background-size:cover;
+  padding-top:5%;
+  padding-bottom:5%;
+  padding-left:1%;
+  padding-right:1%;
+}
+
+.pageFour{
+  background-color:#F5F5F5;
+  background-size:cover;
+  height:500px;
+  padding-top:5%;
+}
+
+p{
+  font-size:2.0em;
+  padding-top:5%;
+}
+
+.block{
+  background-color:black;
+  opacity:.7;
+  padding:10px;
+  width:40%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:10px;
+  
+}
+
+.me{
+  height:250px;
+  width:250px;
+  border-radius:50%;
+}
+
+hr{
+  padding:0px;
+  background-color:#F5F5F5;
+  margin:0px;
+}
